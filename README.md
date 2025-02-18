@@ -4,7 +4,7 @@
 
 ### Definition: A systematic process for making choices among alternatives.
 
-###Example: Choosing the best supplier based on cost, quality, and delivery time.
+### Example: Choosing the best supplier based on cost, quality, and delivery time.
 
 ![image](https://github.com/user-attachments/assets/fa1eefda-daef-4764-b575-5fd6311fc814)
 
